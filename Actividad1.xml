@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:uno="apellido1" xmlns:dos="apellido2">
+
+<libreria>
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Gómez</uno:apellido>
+                <dos:apellido>Jurado</dos:apellido>
+                <nombre>Juan</nombre>
+            </autor>
+        </autores>
+        <titulo>Todo vuelve (Todo arde 2)</titulo>
+        <editorial>B</editorial>
+        <fechaPublicacion>10 de octubre de 2023</fechaPublicacion>
+        <ISBN>978-84-666-7568-0</ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido >Mola</uno:apellido>
+                <nombre>Carmen</nombre>
+            </autor>
+        </autores>
+        <titulo>El Infierno</titulo>
+        <editorial>Editorial Planeta</editorial>
+        <fechaPublicacion>4 de octubre de 2023</fechaPublicacion>
+        <ISBN>978-84-08-27758-3</ISBN>
+    </libro>
+    
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Follett</uno:apellido>
+                <nombre>Carmen</nombre>
+            </autor>
+        </autores>
+        <titulo>La armadura de la luz (Saga Los pilares de la Tierra 4)</titulo>
+        <editorial>PLAZA and JANES</editorial>
+        <fechaPublicacion>4 de octubre de 2023</fechaPublicacion>
+        <ISBN>978-84-01-03013-0</ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <nombre>La Vecina Rubia</nombre>
+            </autor>
+        </autores>
+        <titulo>La chica del verano</titulo>
+        <editorial>Libros Cúpula</editorial>
+        <fechaPublicacion>18 de octubre de 2023</fechaPublicacion>
+        <ISBN>978-84-480-3897-7</ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Goscinny</uno:apellido>
+                <dos:apellido>René</dos:apellido>
+                <nombre>Fabcaro</nombre>
+            </autor>
+        </autores>
+        <titulo>El Lirio Blanco</titulo>
+        <editorial>Editorial Bruño</editorial>
+        <fechaPublicacion>26 de octubre de 2023</fechaPublicacion>
+        <ISBN>978-84-696-4040-1</ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Goscinny</uno:apellido>
+                <dos:apellido>René</dos:apellido>
+                <nombre>Fabcaro</nombre>
+            </autor>
+        </autores>
+        <titulo>EVANGELIO 2024 LETRA PEQUEÑA BOLSILLO</titulo>
+        <editorial>EDIBESA</editorial>
+        <fechaPublicacion>1 de enero de 2024</fechaPublicacion>
+        <ISBN>978-84-19640-00-0 </ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Perez</uno:apellido>
+                <dos:apellido>Reverte</dos:apellido>
+                <nombre>Arturo</nombre>
+            </autor>
+        </autores>
+        <titulo>El problema final</titulo>
+        <editorial>ALFAGUARA</editorial>
+        <fechaPublicacion>5 de septiembre de 2023</fechaPublicacion>
+        <ISBN>978-84-204-7636-0</ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Perez</uno:apellido>
+                <dos:apellido>Reverte</dos:apellido>
+                <nombre>Arturo</nombre>
+            </autor>
+        </autores>
+        <titulo>El problema final</titulo>
+        <editorial>ALFAGUARA</editorial>
+        <fechaPublicacion>5 de septiembre de 2023</fechaPublicacion>
+        <ISBN>978-84-204-7636-0</ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Muñoz</uno:apellido>
+                <dos:apellido>Molina</dos:apellido>
+                <nombre>Antonio</nombre>
+            </autor>
+        </autores>
+        <titulo>No te veré morir</titulo>
+        <editorial>Seix Barral</editorial>
+        <fechaPublicacion>30 de agosto de 2023</fechaPublicacion>
+        <ISBN>978-84-322-4232-8</ISBN>
+    </libro>
+
+    <libro>
+        <autores>
+            <autor>
+                <uno:apellido>Clear</uno:apellido>
+                <nombre>James</nombre>
+            </autor>
+        </autores>
+        <titulo>Hábitos atómicos</titulo>
+        <editorial>Diana Editorial</editorial>
+        <fechaPublicacion>16 de octubre de 2018</fechaPublicacion>
+        <ISBN>978-84-18118-03-6</ISBN>
+    </libro>
+
+</libreria>
+</root>

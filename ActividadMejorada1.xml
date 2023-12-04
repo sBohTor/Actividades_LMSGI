@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoJuegos>
+    <juego xmlns="Steam">
+        <creadores>
+            <creador>
+                <desarrollo>FromSoftware Inc</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>Elden Ring</titulo>
+        <distribucion>Steam</distribucion>
+        <fechaPublicacion>25 de febrero de 2022</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>Rockstar Games</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>Red Dead Redemption 2</titulo>
+        <distribucion>Take-Two</distribucion>
+        <fechaPublicacion>26 de octubre de 2018</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>Nintendo</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>The Legend of Zelda: Tears of the Kingdom</titulo>
+        <distribucion>Nintendo</distribucion>
+        <fechaPublicacion>12 de mayo de 2023</fechaPublicacion>
+    </juego>
+
+    <juego xmlns="Steam">
+        <creadores>
+            <creador>
+                <desarrollo>Larian Studios</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>Baldur's Gate 3</titulo>
+        <distribucion>Steam</distribucion>
+        <fechaPublicacion>3 de agosto de 2023</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>Bethesda Softworks</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>The Elder Scrolls V: Skyrim</titulo>
+        <distribucion>Koch Media</distribucion>
+        <fechaPublicacion>11 de noviembre de 2011</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>FromSoftware</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>Sekiro: Shadows Die Twice</titulo>
+        <distribucion>Activision</distribucion>
+        <fechaPublicacion>22 de marzo de 2019</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>Blizzard</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>World of Warcraft: The Burning Crusade</titulo>
+        <distribucion>Vivendi</distribucion>
+        <fechaPublicacion>16 de enero de 2007</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>Irrational Games</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>BioShock</titulo>
+        <distribucion>Take 2</distribucion>
+        <fechaPublicacion>31 de agosto de 2007</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>Santa Monica Studio</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>God of War</titulo>
+        <distribucion>Sony</distribucion>
+        <fechaPublicacion>20 de abril de 2018</fechaPublicacion>
+    </juego>
+
+    <juego>
+        <creadores>
+            <creador>
+                <desarrollo>CD Projekt RED</desarrollo>
+            </creador>
+        </creadores>
+        <titulo>The Witcher 3: Wild Hunt</titulo>
+        <distribucion>Bandai Namco</distribucion>
+        <fechaPublicacion>19 de mayo de 2015</fechaPublicacion>
+    </juego>
+
+</videoJuegos>
